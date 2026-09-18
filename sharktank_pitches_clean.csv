@@ -1,0 +1,322 @@
+Season_Number,season_label,Episode_Number,Startup_Name,Industry,industry_grouped,Pitchers_City,Pitchers_State,Pitchers_Average_Age,Number_of_Presenters,team_size_bucket,Original_Ask_Amount,Original_Offered_Equity,Valuation_Requested,valuation_ask_group,equity_ask_group,Received_Offer,deal_closed,Total_Deal_Amount,Total_Deal_Equity,Total_Deal_Debt,Deal_Valuation,Number_of_sharks_in_deal,pct_of_ask_funded,valuation_change_pct
+1,Season 1,1,BluePineFoods,Food,Food,Delhi,Delhi,Middle,3,3+ founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,True,True,75.0,16.0,,469.0,3.0,1.5,-0.531
+1,Season 1,1,BoozScooters,Vehicles/Electrical Vehicles,Vehicles/Electrical Vehicles,Ahmedabad,Gujarat,Young,1,Solo founder,40.0,15.0,267.0,Low valuation ask,High equity offered,True,True,40.0,50.0,,80.0,2.0,1.0,-0.700374531835206
+1,Season 1,1,HeartUpMySleeves,Beauty/Fashion,Beauty/Fashion,Delhi,Delhi,Young,1,Solo founder,25.0,10.0,250.0,Low valuation ask,High equity offered,True,True,25.0,30.0,,83.0,2.0,1.0,-0.668
+1,Season 1,2,TagzFoods,Food,Food,Bangalore,Karnataka,Middle,2,Two founders,70.0,1.0,7000.0,High valuation ask,Low equity offered,True,True,70.0,2.75,,2545.0,1.0,1.0,-0.6364285714285715
+1,Season 1,2,HeadAndHeart,Education,Other (small n),Patiala,Punjab,Middle,4,3+ founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,2,Agritourism,Agriculture,Other (small n),Baramati,Maharashtra,Middle,2,Two founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,3,qZenseLabs,Food,Food,"Delhi,Mohali","Delhi,Punjab",Middle,2,Two founders,100.0,0.25,40000.0,High valuation ask,Low equity offered,True,False,,,,,,,
+1,Season 1,3,Peeschute,Beauty/Fashion,Beauty/Fashion,Jalna,Maharashtra,Young,1,Solo founder,75.0,4.0,1875.0,Low valuation ask,High equity offered,True,True,75.0,6.0,,1250.0,1.0,1.0,-0.3333333333333333
+1,Season 1,3,NOCD,Food,Food,Bangalore,Karnataka,Middle,2,Two founders,50.0,2.0,2500.0,High valuation ask,Low equity offered,True,True,20.0,15.0,30.0,133.0,1.0,0.4,-0.9468
+1,Season 1,4,CosIQ,Beauty/Fashion,Beauty/Fashion,Delhi,Delhi,Middle,2,Two founders,50.0,7.5,667.0,Low valuation ask,High equity offered,True,True,50.0,25.0,,200.0,2.0,1.0,-0.7001499250374813
+1,Season 1,4,JhaJiAchaar,Food,Food,Darbhanga,Bihar,Old,2,Two founders,50.0,10.0,500.0,Low valuation ask,High equity offered,True,True,56.6,5.62,,1007.0,2.0,1.1320000000000001,1.014
+1,Season 1,4,Bummer,Beauty/Fashion,Beauty/Fashion,Ahmedabad,Gujarat,Young,1,Solo founder,75.0,4.0,1875.0,Low valuation ask,High equity offered,True,True,75.0,7.5,,1000.0,2.0,1.0,-0.4666666666666667
+1,Season 1,5,RevampMoto,Vehicles/Electrical Vehicles,Vehicles/Electrical Vehicles,Nashik,Maharashtra,Young,3,3+ founders,100.0,1.0,10000.0,High valuation ask,Low equity offered,True,True,100.0,1.5,,6667.0,2.0,1.0,-0.3333
+1,Season 1,5,HungryHead,Food,Food,Mumbai,Maharashtra,Middle,2,Two founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,5,ShrawaniEngineers,Beauty/Fashion,Beauty/Fashion,Nagpur,Maharashtra,Middle,2,Two founders,20.0,10.0,200.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,6,SkippiIcePops,Food,Food,Hyderabad,Telangana,Middle,2,Two founders,45.0,5.0,900.0,Low valuation ask,High equity offered,True,True,100.0,15.0,,667.0,5.0,2.2222222222222223,-0.2588888888888889
+1,Season 1,6,Menstrupedia,Education,Other (small n),Ahmedabad,Gujarat,Middle,2,Two founders,50.0,10.0,500.0,Low valuation ask,High equity offered,True,True,50.0,20.0,,250.0,1.0,1.0,-0.5
+1,Season 1,6,Hecoll,Beauty/Fashion,Beauty/Fashion,Hyderabad,Telangana,Middle,1,Solo founder,100.0,1.0,10000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+1,Season 1,7,RaisingSuperstars,Education,Other (small n),Gurgaon,Haryana,Middle,2,Two founders,100.0,2.0,5000.0,High valuation ask,Low equity offered,True,True,100.0,4.0,,2500.0,2.0,1.0,-0.5
+1,Season 1,7,Torch-it,Education,Other (small n),Ahmedabad,Gujarat,Middle,1,Solo founder,75.0,1.0,7500.0,High valuation ask,Low equity offered,True,False,,,,,,,
+1,Season 1,7,Kavach,Education,Other (small n),Gurgaon,Haryana,Young,2,Two founders,5.0,10.0,50.0,Low valuation ask,High equity offered,True,True,5.0,10.0,,50.0,2.0,1.0,0.0
+1,Season 1,7,LaKheerDeli,Food,Food,Pune,Maharashtra,Middle,3,3+ founders,50.0,7.5,667.0,Low valuation ask,High equity offered,True,False,,,,,,,
+1,Season 1,8,BeyondSnack,Food,Food,Thiruvananthapuram,Kerala,Middle,1,Solo founder,50.0,2.5,2000.0,High valuation ask,Low equity offered,True,True,50.0,2.5,,2000.0,2.0,1.0,0.0
+1,Season 1,8,VivalyfInnovations,Medical/Health,Medical/Health,Hyderabad,Telangana,Young,2,Two founders,56.0,7.5,747.0,Low valuation ask,High equity offered,True,True,56.0,33.33,,168.0,2.0,1.0,-0.7751004016064257
+1,Season 1,8,MotionBreeze,Vehicles/Electrical Vehicles,Vehicles/Electrical Vehicles,Vadodara,Gujarat,Middle,4,3+ founders,30.0,3.0,1000.0,Low valuation ask,High equity offered,True,True,30.0,6.0,,500.0,1.0,1.0,-0.5
+1,Season 1,9,Altor,Manufacturing,Manufacturing,Kolkata,West Bengal,Young,4,3+ founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,True,True,50.0,7.0,,714.0,2.0,1.0,-0.286
+1,Season 1,9,Ariro,Manufacturing,Manufacturing,Chennai,Tamil Nadu,Young,2,Two founders,50.0,2.5,2000.0,High valuation ask,Low equity offered,True,True,50.0,10.0,,500.0,2.0,1.0,-0.75
+1,Season 1,9,KabiraHandmad,Food,Food,Jaipur,Rajasthan,Middle,2,Two founders,100.0,5.0,2000.0,High valuation ask,High equity offered,True,False,,,,,,,
+1,Season 1,10,Nuutjob,Beauty/Fashion,Beauty/Fashion,Ahmedabad,Gujarat,Young,2,Two founders,25.0,5.0,500.0,Low valuation ask,High equity offered,True,True,25.0,20.0,,125.0,3.0,1.0,-0.75
+1,Season 1,10,Meatyour,Food,Food,Pune,Maharashtra,Middle,3,3+ founders,30.0,5.0,600.0,Low valuation ask,High equity offered,True,True,30.0,20.0,,150.0,3.0,1.0,-0.75
+1,Season 1,10,EventBeep,Education,Other (small n),Pune,Maharashtra,Young,3,3+ founders,30.0,2.0,1500.0,Low valuation ask,Low equity offered,True,True,30.0,3.0,,1000.0,3.0,1.0,-0.3333333333333333
+1,Season 1,11,Gopal's56,Food,Food,Delhi,Delhi,Middle,1,Solo founder,30000.0,25.0,120000.0,High valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,11,ARRCOATSurfaceTextures,Manufacturing,Manufacturing,Delhi,Delhi,Middle,3,3+ founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,True,True,50.0,15.0,,333.0,1.0,1.0,-0.667
+1,Season 1,11,Farda,Beauty/Fashion,Beauty/Fashion,Nagpur,Maharashtra,Young,2,Two founders,30.0,10.0,300.0,Low valuation ask,High equity offered,True,True,30.0,20.0,,150.0,2.0,1.0,-0.5
+1,Season 1,12,Auli,Beauty/Fashion,Beauty/Fashion,Kolkata,West Bengal,Middle,1,Solo founder,75.0,4.0,1875.0,Low valuation ask,High equity offered,True,True,75.0,15.0,,500.0,1.0,1.0,-0.7333333333333333
+1,Season 1,12,SweeDesi,Food,Food,Pune,Maharashtra,Middle,2,Two founders,40.0,3.0,1333.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,12,LOKA,Technology/Software,Technology/Software,Delhi,Delhi,Young,1,Solo founder,40.0,5.0,800.0,Low valuation ask,High equity offered,True,True,40.0,24.0,,167.0,3.0,1.0,-0.79125
+1,Season 1,13,Annie,Education,Other (small n),Bangalore,Karnataka,Young,4,3+ founders,30.0,0.5,6000.0,High valuation ask,Low equity offered,True,True,105.0,3.0,,3500.0,3.0,3.5,-0.4166666666666667
+1,Season 1,13,Carragreen,Manufacturing,Manufacturing,Indore,Madhya Pradesh,Middle,2,Two founders,50.0,10.0,500.0,Low valuation ask,High equity offered,True,True,50.0,20.0,,250.0,2.0,1.0,-0.5
+1,Season 1,13,TheYarnBazaar,Manufacturing,Manufacturing,Mumbai,Maharashtra,Middle,1,Solo founder,50.0,2.0,2500.0,High valuation ask,Low equity offered,True,True,100.0,10.0,,1000.0,4.0,2.0,-0.6
+1,Season 1,14,TheRenalProject,Medical/Health,Medical/Health,Mumbai,Maharashtra,Middle,1,Solo founder,100.0,3.0,3333.0,High valuation ask,High equity offered,True,True,100.0,6.0,,1667.0,2.0,1.0,-0.49984998499849986
+1,Season 1,14,MorrikoPureFoods,Food,Food,Valsad,Gujarat,Middle,3,3+ founders,100.0,3.0,3333.0,High valuation ask,High equity offered,True,False,,,,,,,
+1,Season 1,14,GoodGoodPiggy,Technology/Software,Technology/Software,Delhi,Delhi,Young,2,Two founders,45.0,5.0,900.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,15,HammerLifestyle,Electronics,Other (small n),Panipat,Haryana,Young,3,3+ founders,30.0,3.0,1000.0,Low valuation ask,High equity offered,True,True,100.0,40.0,,250.0,1.0,3.3333333333333335,-0.75
+1,Season 1,15,PNT,Technology/Software,Technology/Software,Mumbai,Maharashtra,Young,2,Two founders,50.0,4.0,1250.0,Low valuation ask,High equity offered,True,True,25.0,25.0,25.0,100.0,1.0,0.5,-0.92
+1,Season 1,15,Cocofit,Food,Food,Hyderabad,Telangana,Middle,3,3+ founders,5e-05,5.0,0.0,Low valuation ask,High equity offered,True,True,5e-05,5.0,,0.0,3.0,1.0,
+1,Season 1,16,BambooIndia,Manufacturing,Manufacturing,Pune,Maharashtra,Middle,2,Two founders,80.0,4.0,2000.0,High valuation ask,High equity offered,True,True,50.0,3.5,30.0,1429.0,2.0,0.625,-0.2855
+1,Season 1,16,FlyingFur,Animal/Pets,Other (small n),Delhi,Delhi,Middle,3,3+ founders,75.0,7.0,1071.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,16,BeyondWater,Food,Food,Kolkata,West Bengal,Young,2,Two founders,75.0,4.0,1875.0,Low valuation ask,High equity offered,True,True,75.0,15.0,,500.0,2.0,1.0,-0.7333333333333333
+1,Season 1,16,Let'sTry,Food,Food,Delhi,Delhi,Middle,4,3+ founders,45.0,2.0,2250.0,High valuation ask,Low equity offered,True,True,45.0,12.0,,375.0,2.0,1.0,-0.8333333333333334
+1,Season 1,17,FindYourKicksIndia,Beauty/Fashion,Beauty/Fashion,Ludhiana,Punjab,Young,3,3+ founders,50.0,10.0,500.0,Low valuation ask,High equity offered,True,True,50.0,25.0,,200.0,5.0,1.0,-0.6
+1,Season 1,17,AasVidyalaya,Education,Other (small n),Mumbai,Maharashtra,Middle,2,Two founders,150.0,3.0,5000.0,High valuation ask,High equity offered,True,True,150.0,15.0,,1000.0,3.0,1.0,-0.8
+1,Season 1,17,Outbox,Services,Services,Kolkata,West Bengal,Young,2,Two founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,17,RoadBounce,Technology/Software,Technology/Software,Pune,Maharashtra,Middle,1,Solo founder,80.0,10.0,800.0,Low valuation ask,High equity offered,True,True,80.0,20.0,,400.0,1.0,1.0,-0.5
+1,Season 1,18,Mommy'sKitchen,Food,Food,Mumbai,Maharashtra,Middle,3,3+ founders,90.0,3.0,3000.0,High valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,18,IndiaHempandCo,Food,Food,Bangalore,Karnataka,Middle,1,Solo founder,50.0,4.0,1250.0,Low valuation ask,High equity offered,True,False,,,,,,,
+1,Season 1,18,Otua,Vehicles/Electrical Vehicles,Vehicles/Electrical Vehicles,Gurgaon,Haryana,Middle,2,Two founders,100.0,1.0,10000.0,High valuation ask,Low equity offered,True,True,1.0,1.0,99.0,100.0,1.0,0.01,-0.99
+1,Season 1,18,Anthyesti,Services,Services,Bangalore,Karnataka,Middle,1,Solo founder,50.0,2.5,2000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+1,Season 1,19,Ethik,Manufacturing,Manufacturing,Bangalore,Karnataka,Middle,2,Two founders,15.0,5.0,300.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,19,WeSTOCK,Animal/Pets,Other (small n),Ernakulam,Kerala,Middle,2,Two founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,True,True,60.0,10.0,,600.0,4.0,1.2,-0.4
+1,Season 1,19,KetoIndia,Food,Food,Delhi,Delhi,Young,1,Solo founder,150.0,1.25,12000.0,High valuation ask,Low equity offered,True,False,,,,,,,
+1,Season 1,19,Magiclock,Hardware,Other (small n),Mumbai,Maharashtra,Middle,3,3+ founders,120.0,8.0,1500.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,20,TheStatePlate,Food,Food,"Bangalore,Kolkata","Karnataka,West Bengal",Young,2,Two founders,65.0,2.0,3250.0,High valuation ask,Low equity offered,True,True,40.0,3.0,25.0,1333.0,1.0,0.6153846153846154,-0.5898461538461538
+1,Season 1,20,Bakarmax,Technology/Software,Technology/Software,Delhi,Delhi,Young,2,Two founders,35.0,5.0,700.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,20,INACAN,Food,Food,Pune,Maharashtra,Middle,3,3+ founders,50.0,2.0,2500.0,High valuation ask,Low equity offered,True,True,100.0,10.0,,1000.0,5.0,2.0,-0.6
+1,Season 1,21,Get-A-Whey,Food,Food,Mumbai,Maharashtra,Middle,2,Two founders,100.0,8.0,1250.0,Low valuation ask,High equity offered,True,True,100.0,15.0,,667.0,3.0,1.0,-0.4664
+1,Season 1,21,Sid07Designs,Hardware,Other (small n),Jammu,Jammu & Kashmir,Young,1,Solo founder,47.0,10.0,470.0,Low valuation ask,High equity offered,True,True,25.0,75.0,22.0,33.0,1.0,0.5319148936170213,-0.9297872340425531
+1,Season 1,21,TheQuirkyNaari,Beauty/Fashion,Beauty/Fashion,Mathura,Uttar Pradesh,Young,1,Solo founder,35.0,5.0,700.0,Low valuation ask,High equity offered,True,True,35.0,24.0,,146.0,2.0,1.0,-0.7914285714285715
+1,Season 1,22,HairOriginals,Beauty/Fashion,Beauty/Fashion,Gurgaon,Haryana,Middle,3,3+ founders,60.0,2.0,3000.0,High valuation ask,Low equity offered,True,True,60.0,4.0,,1500.0,3.0,1.0,-0.5
+1,Season 1,22,Poo-de-Cologne,Beauty/Fashion,Beauty/Fashion,Mumbai,Maharashtra,Middle,1,Solo founder,75.0,5.0,1500.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,22,Moonshine,Food,Food,Mumbai,Maharashtra,Middle,2,Two founders,80.0,0.5,16000.0,High valuation ask,Low equity offered,True,False,,,,,,,
+1,Season 1,22,Falhari,Food,Food,Gurgaon,Haryana,Middle,3,3+ founders,50.0,2.0,2500.0,High valuation ask,Low equity offered,True,False,,,,,,,
+1,Season 1,23,NamhyaFoods,Food,Food,Jammu,Jammu & Kashmir,Young,1,Solo founder,100.0,5.0,2000.0,High valuation ask,High equity offered,True,True,50.0,10.0,50.0,500.0,1.0,0.5,-0.75
+1,Season 1,23,UrbanMonkey,Beauty/Fashion,Beauty/Fashion,Mumbai,Maharashtra,Young,1,Solo founder,100.0,1.0,10000.0,High valuation ask,Low equity offered,True,False,,,,,,,
+1,Season 1,23,GuardianGears,Manufacturing,Manufacturing,Hyderabad,Telangana,Middle,2,Two founders,30.0,5.0,600.0,Low valuation ask,High equity offered,True,False,,,,,,,
+1,Season 1,23,ModernMyth,Beauty/Fashion,Beauty/Fashion,Delhi,Delhi,Young,2,Two founders,75.0,5.0,1500.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,24,TheSassBar,Beauty/Fashion,Beauty/Fashion,Mumbai,Maharashtra,Young,1,Solo founder,40.0,8.0,500.0,Low valuation ask,High equity offered,True,True,50.0,35.0,,143.0,2.0,1.25,-0.714
+1,Season 1,24,KGAgrotech,Agriculture,Other (small n),Malegaon,Maharashtra,Young,2,Two founders,30.0,10.0,300.0,Low valuation ask,High equity offered,True,True,10.0,40.0,20.0,25.0,1.0,0.3333333333333333,-0.9166666666666666
+1,Season 1,24,NuskhaKitchen,Food,Food,Jaipur,Rajasthan,Middle,2,Two founders,20.0,10.0,200.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,25,PawsIndia,Animal/Pets,Other (small n),Mumbai,Maharashtra,Young,1,Solo founder,50.0,4.0,1250.0,Low valuation ask,High equity offered,True,True,50.0,15.0,,333.0,1.0,1.0,-0.7336
+1,Season 1,25,SunfoxTechnologies,Medical/Health,Medical/Health,Dehradun,Uttarakhand,Young,4,3+ founders,100.0,2.0,5000.0,High valuation ask,Low equity offered,True,True,100.0,6.0,,1667.0,5.0,1.0,-0.6666
+1,Season 1,25,Alpino,Food,Food,Surat,Gujarat,Young,4,3+ founders,150.0,2.0,7500.0,High valuation ask,Low equity offered,True,False,,,,,,,
+1,Season 1,26,IsakFragrances,Beauty/Fashion,Beauty/Fashion,Lucknow,Uttar Pradesh,Young,1,Solo founder,50.0,8.0,625.0,Low valuation ask,High equity offered,True,True,50.0,50.0,,100.0,1.0,1.0,-0.84
+1,Season 1,26,JulaaAutomation,Manufacturing,Manufacturing,Ahmedabad,Gujarat,Middle,3,3+ founders,50.0,10.0,500.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,26,RarePlanet,Manufacturing,Manufacturing,Kolkata,West Bengal,Middle,2,Two founders,65.0,1.0,6500.0,High valuation ask,Low equity offered,True,True,65.0,3.0,,2167.0,1.0,1.0,-0.6666153846153846
+1,Season 1,27,ThekaCoffee,Food,Food,Gandhinagar,Gujarat,Young,1,Solo founder,50.0,10.0,500.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,27,WattTechnovations,Medical/Health,Medical/Health,Pune,Maharashtra,Young,1,Solo founder,0.00101,2.0,0.0,Low valuation ask,Low equity offered,True,True,0.00101,4.0,,0.0,4.0,1.0,
+1,Season 1,27,AlisteTechnologies,Technology/Software,Technology/Software,Noida,Uttar Pradesh,Young,6,3+ founders,60.0,5.0,1200.0,Low valuation ask,High equity offered,True,False,,,,,,,
+1,Season 1,27,InsuranceSamadhan,Services,Services,Noida,Uttar Pradesh,Middle,3,3+ founders,100.0,1.0,10000.0,High valuation ask,Low equity offered,True,True,100.0,4.0,,2500.0,1.0,1.0,-0.75
+1,Season 1,28,HumpyA2,Food,Food,Pune,Maharashtra,Middle,3,3+ founders,75.0,4.0,1875.0,Low valuation ask,High equity offered,True,True,100.0,15.0,,667.0,3.0,1.3333333333333333,-0.6442666666666667
+1,Season 1,28,KunafaWorld,Food,Food,Mangalore,Karnataka,Young,2,Two founders,90.0,5.0,1800.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,28,GoldSafeSolutions,Manufacturing,Manufacturing,Mumbai,Maharashtra,Middle,2,Two founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,True,True,50.0,30.0,,167.0,3.0,1.0,-0.833
+1,Season 1,29,WakaoFoods,Food,Food,Goa,Goa,Middle,1,Solo founder,75.0,5.0,1500.0,Low valuation ask,High equity offered,True,True,75.0,21.0,,357.0,3.0,1.0,-0.762
+1,Season 1,29,PDDFalcon,Manufacturing,Manufacturing,Gandhinagar,Gujarat,Young,2,Two founders,75.0,3.0,2500.0,High valuation ask,High equity offered,True,False,,,,,,,
+1,Season 1,29,PlayBoxTV,Services,Services,Mumbai,Maharashtra,Young,2,Two founders,100.0,3.5,2857.0,High valuation ask,High equity offered,True,False,,,,,,,
+1,Season 1,30,Sippline,Manufacturing,Manufacturing,Pune,Maharashtra,Middle,1,Solo founder,75.0,15.0,500.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,30,KabaddiAdda,Sports,Other (small n),Bangalore,Karnataka,Middle,2,Two founders,80.0,1.0,8000.0,High valuation ask,Low equity offered,True,True,80.0,6.0,,1333.0,2.0,1.0,-0.833375
+1,Season 1,30,ShadesofSpring,Services,Services,Bangalore,Karnataka,Young,2,Two founders,300.0,1.0,30000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+1,Season 1,30,Scholify,Education,Other (small n),Bangalore,Karnataka,Middle,1,Solo founder,50.0,7.5,667.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,31,Scrapshala,Manufacturing,Manufacturing,Varanasi,Uttar Pradesh,Middle,2,Two founders,50.0,10.0,500.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,31,Sabjikothi,Manufacturing,Manufacturing,Bhagalpur,Bihar,Young,2,Two founders,60.0,2.5,2400.0,High valuation ask,Low equity offered,False,False,,,,,,,
+1,Season 1,31,AyuRythm,Medical/Health,Medical/Health,Bangalore,Karnataka,Middle,3,3+ founders,75.0,2.0,3750.0,High valuation ask,Low equity offered,True,True,75.0,2.68,,2799.0,1.0,1.0,-0.2536
+1,Season 1,31,Astrix,Manufacturing,Manufacturing,Coimbatore,Tamil Nadu,Middle,2,Two founders,75.0,3.0,2500.0,High valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,32,TheaandSid,Services,Services,Mumbai,Maharashtra,Middle,2,Two founders,80.0,7.0,1143.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,32,ExperentialEtc,Technology/Software,Technology/Software,Mumbai,Maharashtra,Middle,2,Two founders,200.0,4.0,5000.0,High valuation ask,High equity offered,True,False,,,,,,,
+1,Season 1,32,GrowFitter,Technology/Software,Technology/Software,Mumbai,Maharashtra,Middle,2,Two founders,50.0,1.0,5000.0,High valuation ask,Low equity offered,True,True,50.0,2.0,,2500.0,1.0,1.0,-0.5
+1,Season 1,32,C3Med-Tech,Medical/Health,Medical/Health,Ahmedabad,Gujarat,Middle,2,Two founders,35.0,6.0,583.0,Low valuation ask,High equity offered,True,False,,,,,,,
+1,Season 1,33,ColourMeMad-CMM,Beauty/Fashion,Beauty/Fashion,Mumbai,Maharashtra,Middle,2,Two founders,40.0,10.0,400.0,Low valuation ask,High equity offered,True,True,40.0,25.0,,160.0,1.0,1.0,-0.6
+1,Season 1,33,Mavi's,Food,Food,Thane,Maharashtra,Middle,2,Two founders,40.0,5.0,800.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,33,TweekLabs,Sports,Other (small n),Delhi,Delhi,Middle,4,3+ founders,40.0,2.0,2000.0,High valuation ask,Low equity offered,True,True,60.0,10.0,,600.0,3.0,1.5,-0.7
+1,Season 1,33,Proxgy,Technology/Software,Technology/Software,Delhi,Delhi,Middle,2,Two founders,35.0,1.0,3500.0,High valuation ask,Low equity offered,True,True,100.0,10.0,,1000.0,2.0,2.857142857142857,-0.7142857142857143
+1,Season 1,34,NomadFoodProject,Food,Food,"Delhi,Pune","Delhi,Maharashtra",Young,2,Two founders,40.0,10.0,400.0,Low valuation ask,High equity offered,True,True,40.0,20.0,,200.0,4.0,1.0,-0.5
+1,Season 1,34,TweeInOne,Beauty/Fashion,Beauty/Fashion,Mumbai,Maharashtra,Young,1,Solo founder,30.0,7.5,400.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,34,GreenProtein,Food,Food,Mumbai,Maharashtra,Middle,2,Two founders,60.0,2.0,3000.0,High valuation ask,Low equity offered,True,False,,,,,,,
+1,Season 1,34,On2Cook,Food,Food,Ahmedabad,Gujarat,Middle,1,Solo founder,100.0,1.0,10000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+1,Season 1,35,JainShikanji,Food,Food,Modinagar,Uttar Pradesh,Middle,1,Solo founder,40.0,8.0,500.0,Low valuation ask,High equity offered,True,True,40.0,30.0,,133.0,4.0,1.0,-0.734
+1,Season 1,35,Woloo,Technology/Software,Technology/Software,Mumbai,Maharashtra,Middle,3,3+ founders,50.0,4.0,1250.0,Low valuation ask,High equity offered,True,False,,,,,,,
+1,Season 1,35,ElcareIndia,Medical/Health,Medical/Health,Mumbai,Maharashtra,Middle,3,3+ founders,100.0,2.5,4000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+1,Season 1,36,SneaKare,Beauty/Fashion,Beauty/Fashion,Delhi,Delhi,Young,1,Solo founder,20.0,5.0,400.0,Low valuation ask,High equity offered,True,True,21.0,12.0,,175.0,3.0,1.05,-0.5625
+1,Season 1,36,FrenchCrown,Beauty/Fashion,Beauty/Fashion,Surat,Gujarat,Middle,2,Two founders,150.0,0.33,45455.0,High valuation ask,Low equity offered,True,False,,,,,,,
+1,Season 1,36,StoreMyGoods,Services,Services,Noida,Uttar Pradesh,Middle,3,3+ founders,100.0,1.75,5714.0,High valuation ask,Low equity offered,True,True,50.0,4.0,50.0,1250.0,2.0,0.5,-0.7812390619530977
+1,Season 1,36,Devnagri,Technology/Software,Technology/Software,Delhi,Delhi,Middle,2,Two founders,100.0,1.0,10000.0,High valuation ask,Low equity offered,True,False,,,,,,,
+1,Season 1,0,WitBlox,Manufacturing,Manufacturing,Mumbai,Maharashtra,Middle,2,Two founders,60.0,3.0,2000.0,High valuation ask,High equity offered,True,True,60.0,10.0,,600.0,2.0,1.0,-0.7
+1,Season 1,0,Kineer,Food,Food,Pune,Maharashtra,Middle,2,Two founders,100.0,10.0,1000.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,PiChem,Manufacturing,Manufacturing,Lucknow,Uttar Pradesh,Young,1,Solo founder,40.0,5.0,800.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,Clensta,Beauty/Fashion,Beauty/Fashion,Delhi,Delhi,Middle,1,Solo founder,100.0,1.0,10000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+1,Season 1,0,InfinitiInsects,Animal/Pets,Other (small n),Bangalore,Karnataka,Middle,2,Two founders,25.0,10.0,250.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,AshwaPro,Services,Services,Jaipur,Rajasthan,Middle,1,Solo founder,50.0,10.0,500.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,Mine4Nine,Beauty/Fashion,Beauty/Fashion,Gurgaon,Haryana,Middle,2,Two founders,75.0,4.0,1875.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,StudioBeej,Beauty/Fashion,Beauty/Fashion,Mumbai,Maharashtra,Middle,1,Solo founder,75.0,7.5,1000.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,Sattuz,Liquor/Beverages,Other (small n),Madhubani,Bihar,Middle,2,Two founders,25.0,5.0,500.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,Scintiglo,Medical/Health,Medical/Health,Indore,Madhya Pradesh,Middle,1,Solo founder,75.0,1.0,7500.0,High valuation ask,Low equity offered,True,False,,,,,,,
+1,Season 1,0,Glii,Services,Services,Noida,Uttar Pradesh,Middle,4,3+ founders,40.0,4.0,1000.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,StanleeIndia,Electronics,Other (small n),Delhi,Delhi,Middle,3,3+ founders,60.0,3.0,2000.0,High valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,SpaceKidzIndia,Manufacturing,Manufacturing,Chennai,Tamil Nadu,Middle,2,Two founders,100.0,2.0,5000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+1,Season 1,0,UrbanNaps,Services,Services,Ahmedabad,Gujarat,Young,2,Two founders,50.0,4.0,1250.0,Low valuation ask,High equity offered,True,False,,,,,,,
+1,Season 1,0,Gizmoswala,Entertainment,Other (small n),Mumbai,Maharashtra,Middle,3,3+ founders,75.0,5.0,1500.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,ZyppElectric,Vehicles/Electrical Vehicles,Vehicles/Electrical Vehicles,Gurgaon,Haryana,Young,2,Two founders,220.0,1.0,22000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+1,Season 1,0,Picsniff,Technology/Software,Technology/Software,Mumbai,Maharashtra,Young,1,Solo founder,55.0,1.0,5500.0,High valuation ask,Low equity offered,True,False,,,,,,,
+1,Season 1,0,Deciwood,Electronics,Other (small n),Delhi,Delhi,Young,2,Two founders,50.0,3.5,1429.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,HappyBar,Food,Food,Hyderabad,Telangana,Middle,3,3+ founders,60.0,2.0,3000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+1,Season 1,0,Tathastulive,Services,Services,Ahmedabad,Gujarat,Middle,3,3+ founders,50.0,10.0,500.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,BandsandCups,Beauty/Fashion,Beauty/Fashion,Chennai,Tamil Nadu,Middle,1,Solo founder,40.0,10.0,400.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,MyWealthProtector,Services,Services,Mumbai,Maharashtra,Middle,2,Two founders,50.0,2.5,2000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+1,Season 1,0,TheIris,Manufacturing,Manufacturing,Bangalore,Karnataka,Young,2,Two founders,10.0,15.0,67.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,Canebot,Food,Food,Pune,Maharashtra,Middle,2,Two founders,100.0,2.5,4000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+1,Season 1,0,OyeDelhiOye,Food,Food,Delhi,Delhi,Middle,2,Two founders,35.0,10.0,350.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,InaliAssistiveTech,Medical/Health,Medical/Health,Pune,Maharashtra,Young,2,Two founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,Meera'sCelebrations,Services,Services,Ludhiana,Punjab,Middle,2,Two founders,50.0,25.0,200.0,Low valuation ask,High equity offered,False,False,,,,,,,
+1,Season 1,0,Artment,Beauty/Fashion,Beauty/Fashion,Gurgaon,Haryana,Young,2,Two founders,170.0,2.5,6800.0,High valuation ask,Low equity offered,True,False,,,,,,,
+1,Season 1,0,Powertree,Manufacturing,Manufacturing,Gandhinagar,Gujarat,Middle,2,Two founders,150.0,2.5,6000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+1,Season 1,0,Eume,Beauty/Fashion,Beauty/Fashion,Mumbai,Maharashtra,Middle,3,3+ founders,150.0,2.0,7500.0,High valuation ask,Low equity offered,True,False,,,,,,,
+2,Season 2,1,Hoovu,Services,Services,Bengaluru,Karnataka,Young,2,Two founders,80.0,1.0,8000.0,High valuation ask,Low equity offered,True,True,100.0,2.0,,5000.0,2.0,1.25,-0.375
+2,Season 2,1,Dorji,Food,Food,Darjeeling,West Bengal,Young,2,Two founders,30.0,5.0,600.0,Low valuation ask,High equity offered,True,True,30.0,15.0,,200.0,3.0,1.0,-0.6666666666666666
+2,Season 2,1,Recode,Beauty/Fashion,Beauty/Fashion,Ludhiana,Punjab,Middle,2,Two founders,100.0,1.0,10000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,2,VeryMuchIndian,Beauty/Fashion,Beauty/Fashion,Pune,Maharashtra,Middle,2,Two founders,50.0,3.0,1667.0,Low valuation ask,High equity offered,True,True,50.0,10.0,,500.0,2.0,1.0,-0.7000599880023995
+2,Season 2,2,WatchoutWearables,Electronics,Other (small n),Thane,Maharashtra,Young,2,Two founders,200.0,5.0,4000.0,High valuation ask,High equity offered,True,True,100.0,10.0,100.0,1000.0,2.0,0.5,-0.75
+2,Season 2,2,SoupX,Food,Food,Delhi,Delhi,Young,2,Two founders,75.0,6.0,1250.0,Low valuation ask,High equity offered,True,True,50.0,18.0,25.0,277.7777778,1.0,0.6666666666666666,-0.77777777776
+2,Season 2,3,ATMOSPHERE,Food,Food,Delhi,Delhi,Young,2,Two founders,75.0,3.0,2500.0,High valuation ask,High equity offered,True,False,,,,,,,
+2,Season 2,3,Stage,Entertainment,Other (small n),"Bhiwani,Barnagar","Haryana,Madhya Pradesh",Young,3,3+ founders,300.0,1.0,30000.0,High valuation ask,Low equity offered,True,True,150.0,0.6,150.0,25000.0,3.0,0.5,-0.16666666666666666
+2,Season 2,3,Girgit,Beauty/Fashion,Beauty/Fashion,Mumbai,Maharashtra,Young,2,Two founders,20.0,10.0,200.0,Low valuation ask,High equity offered,True,True,20.0,20.0,,100.0,1.0,1.0,-0.5
+2,Season 2,4,GearHeadMotors,Vehicles/Electrical Vehicles,Vehicles/Electrical Vehicles,Hyderabad,Telangana,Young,2,Two founders,75.0,2.0,3750.0,High valuation ask,Low equity offered,True,True,100.0,6.67,,1499.250375,2.0,1.3333333333333333,-0.6001999
+2,Season 2,4,PatilKaki,Food,Food,Mumbai,Maharashtra,Young,3,3+ founders,40.0,2.5,1600.0,Low valuation ask,Low equity offered,True,True,40.0,4.0,,1000.0,2.0,1.0,-0.375
+2,Season 2,4,Brandsdaddy,Manufacturing,Manufacturing,Mumbai,Maharashtra,Middle,2,Two founders,70.0,5.0,1400.0,Low valuation ask,High equity offered,True,True,35.0,5.0,35.0,700.0,1.0,0.5,-0.5
+2,Season 2,5,Winston,Beauty/Fashion,Beauty/Fashion,Faridabad,Haryana,Middle,2,Two founders,100.0,4.0,2500.0,High valuation ask,High equity offered,True,True,100.0,10.0,,1000.0,2.0,1.0,-0.6
+2,Season 2,5,Flatheads,Beauty/Fashion,Beauty/Fashion,Bangalore,Karnataka,Middle,1,Solo founder,75.0,3.0,2500.0,High valuation ask,High equity offered,True,False,,,,,,,
+2,Season 2,5,OrganicSmokes,Beauty/Fashion,Beauty/Fashion,Delhi,Delhi,Middle,3,3+ founders,100.0,1.0,10000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,6,TeaFit,Liquor/Beverages,Other (small n),Mumbai,Maharashtra,Young,3,3+ founders,50.0,3.0,1666.666667,Low valuation ask,High equity offered,True,True,50.0,8.0,,625.0,4.0,1.0,-0.625000000075
+2,Season 2,6,Haqdarshak,Services,Services,Shimla,Himachal Pradesh,Middle,2,Two founders,100.0,0.5,20000.0,High valuation ask,Low equity offered,True,True,100.0,2.0,,5000.0,3.0,1.0,-0.75
+2,Season 2,6,Bhaskar'sPuranpoliGhar,Food,Food,Thane,Maharashtra,Middle,3,3+ founders,75.0,1.0,7500.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,7,GunjanAppsStudios,Technology/Software,Technology/Software,Kolkata,West Bengal,Middle,2,Two founders,250.0,1.0,25000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,7,TheSimplySalad,Food,Food,Ahmedabad,Gujarat,Young,2,Two founders,30.0,10.0,300.0,Low valuation ask,High equity offered,True,True,30.0,10.0,,300.0,2.0,1.0,0.0
+2,Season 2,7,AyuSynk,Medical/Health,Medical/Health,Mumbai,Maharashtra,Middle,3,3+ founders,100.0,1.5,6666.666667,High valuation ask,Low equity offered,True,True,50.0,3.5,50.0,1428.571429,1.0,0.5,-0.7857142856607142
+2,Season 2,8,AtypicalAdvantage,Technology/Software,Technology/Software,Jamshedpur,Jharkhand,Middle,1,Solo founder,30.0,1.0,3000.0,High valuation ask,Low equity offered,True,True,30.0,3.0,,1000.0,2.0,1.0,-0.6666666666666666
+2,Season 2,8,HouseOfChikankari,Beauty/Fashion,Beauty/Fashion,Delhi,Delhi,Middle,2,Two founders,75.0,1.0,7500.0,High valuation ask,Low equity offered,True,True,75.0,3.75,,2000.0,2.0,1.0,-0.7333333333333333
+2,Season 2,8,MagicOfMemories,Beauty/Fashion,Beauty/Fashion,Delhi,Delhi,Middle,1,Solo founder,25.0,5.0,500.0,Low valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,9,Paradyes,Beauty/Fashion,Beauty/Fashion,Ahmedabad,Gujarat,Young,2,Two founders,65.0,1.0,6500.0,High valuation ask,Low equity offered,True,True,65.0,2.0,,3250.0,2.0,1.0,-0.5
+2,Season 2,9,Nestroots,Furnishing/Household,Furnishing/Household,Delhi,Delhi,Middle,1,Solo founder,50.0,1.0,5000.0,High valuation ask,Low equity offered,True,True,50.0,2.0,,2500.0,1.0,1.0,-0.5
+2,Season 2,10,Zillionaire,Beauty/Fashion,Beauty/Fashion,Jaipur,Rajasthan,Young,2,Two founders,50.0,3.3,1515.151515,Low valuation ask,High equity offered,True,True,100.0,10.0,,1000.0,1.0,2.0,-0.339999999934
+2,Season 2,10,Credmate,Technology/Software,Technology/Software,Ludhiana,Punjab,Middle,2,Two founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,10,Freebowler,Sports,Other (small n),Bangalore,Karnataka,Middle,2,Two founders,75.0,7.5,1000.0,Low valuation ask,High equity offered,True,True,25.0,7.5,50.0,333.3333333,1.0,0.3333333333333333,-0.6666666667
+2,Season 2,11,ABCSports&Fitness,Sports,Other (small n),Pune,Maharashtra,Middle,2,Two founders,40.0,2.0,2000.0,High valuation ask,Low equity offered,True,True,40.0,10.0,,400.0,1.0,1.0,-0.8
+2,Season 2,11,Primebook,Technology/Software,Technology/Software,Delhi,Delhi,Middle,4,3+ founders,75.0,1.5,5000.0,High valuation ask,Low equity offered,True,True,75.0,3.0,,2500.0,2.0,1.0,-0.5
+2,Season 2,11,DailyDump,Manufacturing,Manufacturing,Bangalore,Karnataka,Middle,2,Two founders,80.0,4.0,2000.0,High valuation ask,High equity offered,True,True,30.0,4.0,50.0,750.0,1.0,0.375,-0.625
+2,Season 2,12,GharSoaps,Beauty/Fashion,Beauty/Fashion,Pune,Maharashtra,Middle,2,Two founders,60.0,2.0,3000.0,High valuation ask,Low equity offered,True,True,60.0,4.0,,1500.0,1.0,1.0,-0.5
+2,Season 2,12,Janitri,Medical/Health,Medical/Health,Alwar,Rajasthan,Middle,1,Solo founder,100.0,2.5,4000.0,High valuation ask,Low equity offered,True,True,100.0,2.5,,4000.0,1.0,1.0,0.0
+2,Season 2,12,JaipurWatchCompany,Manufacturing,Manufacturing,Jaipur,Rajasthan,Middle,1,Solo founder,50.0,2.0,2500.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,13,InsideFPV,Manufacturing,Manufacturing,Surat,Gujarat,Young,3,3+ founders,75.0,4.0,1875.0,Low valuation ask,High equity offered,True,True,75.0,15.0,,500.0,4.0,1.0,-0.7333333333333333
+2,Season 2,13,Angrakhaa,Beauty/Fashion,Beauty/Fashion,Delhi,Delhi,Young,2,Two founders,40.0,5.0,800.0,Low valuation ask,High equity offered,True,True,40.0,20.0,,200.0,1.0,1.0,-0.75
+2,Season 2,13,Diabexy,Food,Food,Gurgaon,Haryana,Middle,2,Two founders,150.0,1.0,15000.0,High valuation ask,Low equity offered,True,False,,,,,,,
+2,Season 2,14,Kyari,Manufacturing,Manufacturing,Ghaziabad,Uttar Pradesh,Young,2,Two founders,51.0,1.0,5100.0,High valuation ask,Low equity offered,True,True,51.0,6.0,,850.0,2.0,1.0,-0.8333333333333334
+2,Season 2,14,MoppFoods,Food,Food,Delhi,Delhi,Middle,2,Two founders,75.0,2.25,3333.333333,High valuation ask,Low equity offered,True,True,75.0,5.0,,1500.0,1.0,1.0,-0.549999999955
+2,Season 2,14,Econiture,Furnishing/Household,Furnishing/Household,Amaravati,Maharashtra,Middle,4,3+ founders,50.0,8.0,625.0,Low valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,15,Dobiee,Food,Food,Shinde,Maharashtra,Middle,2,Two founders,72.0,2.0,3600.0,High valuation ask,Low equity offered,True,True,72.0,6.5,,1107.692308,1.0,1.0,-0.6923076922222223
+2,Season 2,15,FastBeetle,Services,Services,Srinagar,Jammu & Kashmir,Young,2,Two founders,90.0,3.0,3000.0,High valuation ask,High equity offered,True,True,90.0,7.5,,1200.0,2.0,1.0,-0.6
+2,Season 2,15,Pflow,Medical/Health,Medical/Health,Dhule,Maharashtra,Middle,2,Two founders,60.0,1.0,6000.0,High valuation ask,Low equity offered,True,True,60.0,6.0,,1000.0,2.0,1.0,-0.8333333333333334
+2,Season 2,16,VSMani,Food,Food,Bangalore,Karnataka,Middle,3,3+ founders,60.0,1.5,4000.0,High valuation ask,Low equity offered,True,True,19.0,1.0,41.0,1900.0,1.0,0.31666666666666665,-0.525
+2,Season 2,16,Sepal,Manufacturing,Manufacturing,Hyderabad,Telangana,Middle,2,Two founders,50.0,1.0,5000.0,High valuation ask,Low equity offered,True,True,50.0,2.0,,2500.0,1.0,1.0,-0.5
+2,Season 2,16,Solinas,Services,Services,Chennai,Tamil Nadu,Middle,4,3+ founders,90.0,2.0,4500.0,High valuation ask,Low equity offered,True,True,90.0,3.0,,3000.0,2.0,1.0,-0.3333333333333333
+2,Season 2,17,AvimeeHerbal,Beauty/Fashion,Beauty/Fashion,Surat,Gujarat,Middle,5,3+ founders,280.0,0.5,56000.0,High valuation ask,Low equity offered,True,False,,,,,,,
+2,Season 2,17,eyenic,Beauty/Fashion,Beauty/Fashion,Delhi,Delhi,Middle,2,Two founders,75.0,6.0,1250.0,Low valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,17,ekatra,Furnishing/Household,Furnishing/Household,Kota,Rajasthan,Middle,2,Two founders,40.0,10.0,400.0,Low valuation ask,High equity offered,True,True,20.0,20.0,20.0,100.0,2.0,0.5,-0.75
+2,Season 2,18,Raasa,Food,Food,Delhi,Delhi,Middle,1,Solo founder,50.0,5.0,1000.0,Low valuation ask,High equity offered,True,True,50.0,25.0,,200.0,1.0,1.0,-0.8
+2,Season 2,18,NeoMotion,Manufacturing,Manufacturing,Chennai,Tamil Nadu,Middle,3,3+ founders,100.0,1.0,10000.0,High valuation ask,Low equity offered,True,True,100.0,1.0,,10000.0,1.0,1.0,0.0
+2,Season 2,18,licksters,Food,Food,Nagpur,Maharashtra,Middle,2,Two founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,True,True,25.0,5.0,25.0,500.0,1.0,0.5,-0.5
+2,Season 2,18,Sayonara,Beauty/Fashion,Beauty/Fashion,Kolkata,West Bengal,Middle,1,Solo founder,100.0,1.0,10000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,19,PMV,Vehicles/Electrical Vehicles,Vehicles/Electrical Vehicles,Mumbai,Maharashtra,Middle,1,Solo founder,100.0,1.0,10000.0,High valuation ask,Low equity offered,True,False,,,,,,,
+2,Season 2,19,SpiceStory,Food,Food,Mumbai,Maharashtra,Middle,3,3+ founders,70.0,2.0,3500.0,High valuation ask,Low equity offered,True,True,70.0,5.0,,1400.0,1.0,1.0,-0.6
+2,Season 2,19,Bullspree,Technology/Software,Technology/Software,Ahmedabad,Gujarat,Middle,3,3+ founders,75.0,1.5,5000.0,High valuation ask,Low equity offered,True,True,75.0,2.86,,2622.377622,2.0,1.0,-0.4755244756
+2,Season 2,20,Snitch,Beauty/Fashion,Beauty/Fashion,Bangalore,Karnataka,Middle,1,Solo founder,150.0,0.5,30000.0,High valuation ask,Low equity offered,True,True,150.0,1.5,,10000.0,5.0,1.0,-0.6666666666666666
+2,Season 2,20,Portl,Services,Services,Hyderabad,Telangana,Middle,3,3+ founders,150.0,1.0,15000.0,High valuation ask,Low equity offered,True,True,150.0,2.5,,6000.0,3.0,1.0,-0.6
+2,Season 2,20,FatToSlim,Beauty/Fashion,Beauty/Fashion,Bangalore,Karnataka,Middle,1,Solo founder,20.0,1.0,2000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,21,CheeseCake&Co.,Food,Food,Delhi,Delhi,Middle,2,Two founders,100.0,2.0,5000.0,High valuation ask,Low equity offered,True,False,,,,,,,
+2,Season 2,21,Dabble,Manufacturing,Manufacturing,Bangalore,Karnataka,Middle,2,Two founders,50.0,10.0,500.0,Low valuation ask,High equity offered,True,True,15.0,10.0,35.0,150.0,1.0,0.3,-0.7
+2,Season 2,21,CloudTailor,Services,Services,"Bangalore,Hyderabad","Karnataka,Telangana",Middle,3,3+ founders,100.0,1.4,7142.857143,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,21,BeUnic,Services,Services,Noida,Uttar Pradesh,Middle,3,3+ founders,100.0,10.0,1000.0,Low valuation ask,High equity offered,True,False,,,,,,,
+2,Season 2,22,Broomees,Services,Services,Delhi,Delhi,Middle,3,3+ founders,80.0,2.0,4000.0,High valuation ask,Low equity offered,True,True,100.0,3.0,,3333.333333,3.0,1.25,-0.16666666675
+2,Season 2,22,Ravel,Beauty/Fashion,Beauty/Fashion,Amaravati,Maharashtra,Middle,1,Solo founder,75.0,2.5,3000.0,High valuation ask,Low equity offered,True,True,75.0,10.0,,750.0,1.0,1.0,-0.75
+2,Season 2,22,HoneyVeda,Food,Food,Ahmedabad,Gujarat,Middle,2,Two founders,75.0,7.5,1000.0,Low valuation ask,High equity offered,True,True,50.0,20.0,25.0,250.0,2.0,0.6666666666666666,-0.75
+2,Season 2,23,PadCare,Manufacturing,Manufacturing,Pune,Maharashtra,Young,1,Solo founder,50.0,2.0,2500.0,High valuation ask,Low equity offered,True,True,100.0,4.0,,2500.0,4.0,2.0,0.0
+2,Season 2,23,SwadeshiBlessings,Furnishing/Household,Furnishing/Household,Udaipur,Rajasthan,Middle,3,3+ founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,True,True,25.0,5.0,25.0,500.0,2.0,0.5,-0.5
+2,Season 2,23,OLL,Technology/Software,Technology/Software,Mumbai,Maharashtra,Young,1,Solo founder,30.0,2.0,1500.0,Low valuation ask,Low equity offered,True,True,30.0,5.0,,600.0,2.0,1.0,-0.6
+2,Season 2,23,Febris,Medical/Health,Medical/Health,Ferozepur,Punjab,Middle,2,Two founders,100.0,2.5,4000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,24,Geeani,Vehicles/Electrical Vehicles,Vehicles/Electrical Vehicles,Ahmedabad,Gujarat,Middle,3,3+ founders,75.0,7.5,1000.0,Low valuation ask,High equity offered,True,True,100.0,10.0,,1000.0,3.0,1.3333333333333333,0.0
+2,Season 2,24,Amore,Food,Food,"Hyderabad,Mumbai","Telangana,Maharashtra",Middle,2,Two founders,75.0,4.0,1875.0,Low valuation ask,High equity offered,True,True,75.0,7.5,,1000.0,1.0,1.0,-0.4666666666666667
+2,Season 2,24,LeafyAffair,Beauty/Fashion,Beauty/Fashion,Bangalore,Karnataka,Middle,1,Solo founder,50.0,2.5,2000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,25,ScrapUncle,Services,Services,Delhi,Delhi,Young,1,Solo founder,60.0,3.0,2000.0,High valuation ask,High equity offered,True,True,60.0,5.0,,1200.0,1.0,1.0,-0.4
+2,Season 2,25,SharmaJiKiAata,Food,Food,Pune,Maharashtra,Middle,2,Two founders,40.0,10.0,400.0,Low valuation ask,High equity offered,True,True,40.0,20.0,,200.0,1.0,1.0,-0.5
+2,Season 2,25,Manetain,Beauty/Fashion,Beauty/Fashion,"Cochin,Mumbai","Kerala,Maharashtra",Young,2,Two founders,75.0,2.5,3000.0,High valuation ask,Low equity offered,True,True,75.0,10.0,,750.0,1.0,1.0,-0.75
+2,Season 2,26,GavinParis,Beauty/Fashion,Beauty/Fashion,Kolkata,West Bengal,Young,2,Two founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,True,False,,,,,,,
+2,Season 2,26,UnStop,Technology/Software,Technology/Software,Delhi,Delhi,Middle,1,Solo founder,100.0,1.0,10000.0,High valuation ask,Low equity offered,True,True,200.0,4.0,,5000.0,4.0,2.0,-0.5
+2,Season 2,26,BlueTea,Food,Food,"Faridabad,Kolkata","Haryana,West Bengal",Middle,2,Two founders,75.0,1.0,7500.0,High valuation ask,Low equity offered,True,True,50.0,3.0,25.0,1666.666667,1.0,0.6666666666666666,-0.7777777777333335
+2,Season 2,27,TheGreenSnack,Food,Food,Mumbai,Maharashtra,Middle,2,Two founders,100.0,2.0,5000.0,High valuation ask,Low equity offered,True,True,100.0,8.0,,1250.0,1.0,1.0,-0.75
+2,Season 2,27,HobbyIndia,Furnishing/Household,Furnishing/Household,Surat,Gujarat,Young,3,3+ founders,50.0,3.0,1666.666667,Low valuation ask,High equity offered,True,False,,,,,,,
+2,Season 2,27,Flhexible,Furnishing/Household,Furnishing/Household,Jaipur,Rajasthan,Middle,2,Two founders,50.0,7.5,666.6666667,Low valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,27,UpThrust,Sports,Other (small n),Mumbai,Maharashtra,Young,2,Two founders,75.0,3.0,2500.0,High valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,28,Zoff,Food,Food,Raipur,Chhattisgarh,Middle,2,Two founders,100.0,0.5,20000.0,High valuation ask,Low equity offered,True,True,100.0,1.25,,8000.0,1.0,1.0,-0.6
+2,Season 2,28,DesiToys,Manufacturing,Manufacturing,Mumbai,Maharashtra,Middle,1,Solo founder,50.0,3.0,1666.666667,Low valuation ask,High equity offered,True,False,,,,,,,
+2,Season 2,28,CloudWorx,Technology/Software,Technology/Software,Bangalore,Karnataka,Middle,1,Solo founder,40.0,2.0,2000.0,High valuation ask,Low equity offered,True,True,40.0,3.2,,1250.0,2.0,1.0,-0.375
+2,Season 2,29,Mahantam,Manufacturing,Manufacturing,Banaskantha,Gujarat,Young,2,Two founders,30.0,10.0,300.0,Low valuation ask,High equity offered,True,True,30.0,20.0,,150.0,5.0,1.0,-0.5
+2,Season 2,29,MindPeers,Medical/Health,Medical/Health,Delhi,Delhi,Middle,2,Two founders,53.0,1.0,5300.0,High valuation ask,Low equity offered,True,True,106.0,2.0,,5300.0,4.0,2.0,0.0
+2,Season 2,29,Barosi,Food,Food,Pataudi,Haryana,Middle,1,Solo founder,50.0,2.0,2500.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,30,Daryaganj,Food,Food,Delhi,Delhi,Middle,3,3+ founders,90.0,0.5,18000.0,High valuation ask,Low equity offered,True,True,90.0,1.0,,9000.0,1.0,1.0,-0.5
+2,Season 2,30,DhruvVidyut,Vehicles/Electrical Vehicles,Vehicles/Electrical Vehicles,Delhi,Delhi,Middle,1,Solo founder,0.0,0.5,0.0,Low valuation ask,Low equity offered,True,True,0.0,0.5,,0.0,3.0,,
+2,Season 2,30,CELLBELL,Furnishing/Household,Furnishing/Household,Ulhasnagar,Maharashtra,Middle,3,3+ founders,90.0,1.5,6000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,31,Tipayi,Manufacturing,Manufacturing,Pune,Maharashtra,Young,1,Solo founder,50.0,10.0,500.0,Low valuation ask,High equity offered,True,False,,,,,,,
+2,Season 2,31,DigiQure,Medical/Health,Medical/Health,Bhopal,Madhya Pradesh,Middle,2,Two founders,40.0,4.0,1000.0,Low valuation ask,High equity offered,True,True,40.0,10.0,,400.0,1.0,1.0,-0.6
+2,Season 2,31,Nirmalaya,Manufacturing,Manufacturing,Delhi,Delhi,Middle,3,3+ founders,60.0,1.5,4000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,32,Pabiben,Beauty/Fashion,Beauty/Fashion,Ahmedabad,Gujarat,Middle,2,Two founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,True,True,10.0,5.0,40.0,200.0,1.0,0.2,-0.8
+2,Season 2,32,Homestrap,Furnishing/Household,Furnishing/Household,Indore,Madhya Pradesh,Middle,2,Two founders,70.0,1.0,7000.0,High valuation ask,Low equity offered,True,True,50.0,7.0,20.0,714.2857143,1.0,0.7142857142857143,-0.8979591836714286
+2,Season 2,32,uBreathe,Manufacturing,Manufacturing,Gurgaon,Haryana,Middle,2,Two founders,150.0,7.5,2000.0,High valuation ask,High equity offered,True,True,50.0,5.0,100.0,1000.0,1.0,0.3333333333333333,-0.5
+2,Season 2,32,Deyor,Technology/Software,Technology/Software,Gurgaon,Haryana,Middle,2,Two founders,100.0,1.0,10000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,33,iMumz,Medical/Health,Medical/Health,Bangalore,Karnataka,Middle,3,3+ founders,70.0,1.0,7000.0,High valuation ask,Low equity offered,True,True,10.0,1.0,60.0,1000.0,1.0,0.14285714285714285,-0.8571428571428571
+2,Season 2,33,TheHealthyBinge,Food,Food,Pune,Maharashtra,Middle,2,Two founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,True,True,50.0,5.0,,1000.0,2.0,1.0,0.0
+2,Season 2,33,Freakins,Beauty/Fashion,Beauty/Fashion,Mumbai,Maharashtra,Middle,2,Two founders,70.0,1.0,7000.0,High valuation ask,Low equity offered,True,True,50.0,2.5,20.0,2000.0,1.0,0.7142857142857143,-0.7142857142857143
+2,Season 2,34,Perfora,Furnishing/Household,Furnishing/Household,"Ballarpur,Karnal","Haryana,Maharashtra",Young,2,Two founders,80.0,1.0,8000.0,High valuation ask,Low equity offered,True,True,80.0,2.5,,3200.0,3.0,1.0,-0.6
+2,Season 2,34,MidNightAngelsByPC,Beauty/Fashion,Beauty/Fashion,Gurgaon,Haryana,Middle,2,Two founders,75.0,6.0,1250.0,Low valuation ask,High equity offered,True,False,,,,,,,
+2,Season 2,34,CureSee,Medical/Health,Medical/Health,Gurgaon,Haryana,Middle,3,3+ founders,40.0,5.0,800.0,Low valuation ask,High equity offered,True,True,50.0,10.0,,500.0,1.0,1.25,-0.375
+2,Season 2,35,MeduLance,Medical/Health,Medical/Health,Delhi,Delhi,Middle,2,Two founders,200.0,1.0,20000.0,High valuation ask,Low equity offered,True,True,200.0,2.0,,10000.0,3.0,1.0,-0.5
+2,Season 2,35,Cakelicious,Food,Food,Kolkata,West Bengal,Middle,2,Two founders,25.0,5.0,500.0,Low valuation ask,High equity offered,True,True,25.0,20.0,,125.0,1.0,1.0,-0.75
+2,Season 2,35,Bowled.io,Sports,Other (small n),Mumbai,Maharashtra,Middle,2,Two founders,80.0,1.0,8000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,35,Toyshine,Manufacturing,Manufacturing,Jalandhar,Punjab,Middle,1,Solo founder,125.0,0.5,25000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,36,neuphony,Medical/Health,Medical/Health,Noida,Uttar Pradesh,Young,2,Two founders,100.0,2.0,5000.0,High valuation ask,Low equity offered,True,True,100.0,5.4,,1851.851852,2.0,1.0,-0.6296296296
+2,Season 2,36,Amrutam,Food,Food,Gwalior,Madhya Pradesh,Middle,3,3+ founders,50.0,2.0,2500.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,36,HoloKitab,Technology/Software,Technology/Software,Jalandhar,Punjab,Middle,2,Two founders,45.0,10.0,450.0,Low valuation ask,High equity offered,True,True,45.0,25.0,,180.0,1.0,1.0,-0.6
+2,Season 2,37,Zoe,Food,Food,Gurgaon,Haryana,Middle,2,Two founders,75.0,5.0,1500.0,Low valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,37,Hornback,Vehicles/Electrical Vehicles,Vehicles/Electrical Vehicles,Hyderabad,Telangana,Middle,2,Two founders,50.0,1.0,5000.0,High valuation ask,Low equity offered,True,True,50.0,2.5,,2000.0,1.0,1.0,-0.6
+2,Season 2,37,Malaki,Liquor/Beverages,Other (small n),Mumbai,Maharashtra,Middle,2,Two founders,50.0,1.0,5000.0,High valuation ask,Low equity offered,True,True,50.0,3.0,,1666.666667,2.0,1.0,-0.6666666666
+2,Season 2,37,nanoclean,Manufacturing,Manufacturing,Bikaner,Rajasthan,Middle,1,Solo founder,80.0,2.0,4000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,38,DesmondJi,Liquor/Beverages,Other (small n),Goa,Goa,Middle,2,Two founders,100.0,1.0,10000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,38,Cremeitalia,Food,Food,Mumbai,Maharashtra,Middle,1,Solo founder,90.0,1.5,6000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,38,nawgati,Services,Services,Noida,Uttar Pradesh,Young,3,3+ founders,67.0,2.0,3350.0,High valuation ask,Low equity offered,True,True,67.0,3.0,,2233.333333,2.0,1.0,-0.33333333343283583
+2,Season 2,38,Swytchd,Vehicles/Electrical Vehicles,Vehicles/Electrical Vehicles,Bangalore,Karnataka,Middle,1,Solo founder,50.0,3.0,1666.666667,Low valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,39,GladFul,Food,Food,Jaipur,Rajasthan,Middle,2,Two founders,50.0,2.0,2500.0,High valuation ask,Low equity offered,True,True,50.0,3.5,,1428.571429,3.0,1.0,-0.42857142839999995
+2,Season 2,39,Pharmallama,Medical/Health,Medical/Health,Bangalore,Karnataka,Middle,3,3+ founders,100.0,1.5,6666.666667,High valuation ask,Low equity offered,True,True,200.0,5.0,,4000.0,5.0,2.0,-0.40000000003
+2,Season 2,39,CraveRajaFoods,Food,Food,Kolkata,West Bengal,Middle,2,Two founders,65.0,3.0,2166.666667,High valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,39,VAPerfume,Furnishing/Household,Furnishing/Household,Mumbai,Maharashtra,Middle,1,Solo founder,100.0,10.0,1000.0,Low valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,40,Hood,Technology/Software,Technology/Software,Gurgaon,Haryana,Middle,3,3+ founders,120.0,0.2,60000.0,High valuation ask,Low equity offered,True,True,60.0,0.54,60.0,11111.11111,2.0,0.5,-0.8148148148333334
+2,Season 2,40,TwistingScoops,Food,Food,Delhi,Delhi,Young,2,Two founders,100.0,2.5,4000.0,High valuation ask,Low equity offered,True,False,,,,,,,
+2,Season 2,40,GROWiT,Agriculture,Other (small n),Surat,Gujarat,Middle,2,Two founders,100.0,1.0,10000.0,High valuation ask,Low equity offered,True,True,50.0,1.0,50.0,5000.0,2.0,0.5,-0.5
+2,Season 2,41,Makino,Food,Food,Himmatnagar,Gujarat,Young,4,3+ founders,200.0,2.0,10000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,41,Trunome,Medical/Health,Medical/Health,Chennai,Tamil Nadu,Middle,2,Two founders,150.0,1.0,15000.0,High valuation ask,Low equity offered,True,True,150.0,2.0,,7500.0,4.0,1.0,-0.5
+2,Season 2,41,Wol3D,Manufacturing,Manufacturing,Mumbai,Maharashtra,Middle,4,3+ founders,150.0,1.0,15000.0,High valuation ask,Low equity offered,True,True,80.0,2.0,70.0,4000.0,1.0,0.5333333333333333,-0.7333333333333333
+2,Season 2,41,What'sUpWellness,Food,Food,Kolkata,West Bengal,Middle,2,Two founders,50.0,3.0,1666.666667,Low valuation ask,High equity offered,True,True,60.0,4.76,,1260.504202,3.0,1.2,-0.24369747895126043
+2,Season 2,42,ProostBeer,Liquor/Beverages,Other (small n),Delhi,Delhi,Middle,2,Two founders,100.0,0.75,13333.33333,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,42,DrCubes,Liquor/Beverages,Other (small n),Bangalore,Karnataka,Middle,2,Two founders,80.0,15.0,533.3333333,Low valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,42,MetroRide,Vehicles/Electrical Vehicles,Vehicles/Electrical Vehicles,Bangalore,Karnataka,Middle,2,Two founders,75.0,1.0,7500.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,42,Conker,Technology/Software,Technology/Software,Bangalore,Karnataka,Middle,1,Solo founder,40.0,1.0,4000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,43,WTF,Food,Food,Kolkata,West Bengal,Middle,1,Solo founder,75.0,5.0,1500.0,Low valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,43,funngro,Technology/Software,Technology/Software,Mumbai,Maharashtra,Middle,3,3+ founders,50.0,1.25,4000.0,High valuation ask,Low equity offered,True,True,50.0,4.16,,1201.923077,2.0,1.0,-0.69951923075
+2,Season 2,43,Aadvik,Food,Food,Delhi,Delhi,Middle,2,Two founders,60.0,1.5,4000.0,High valuation ask,Low equity offered,True,True,15.0,1.5,45.0,1000.0,1.0,0.25,-0.75
+2,Season 2,43,oyehappy,Services,Services,Hyderabad,Telangana,Middle,2,Two founders,50.0,1.0,5000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,44,HealthyMaster,Food,Food,Bangalore,Karnataka,Middle,3,3+ founders,50.0,2.0,2500.0,High valuation ask,Low equity offered,True,True,50.0,6.5,,769.2307692,1.0,1.0,-0.69230769232
+2,Season 2,44,Kitsons,Furnishing/Household,Furnishing/Household,Hyderabad,Telangana,Middle,3,3+ founders,1000.0,10.0,10000.0,High valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,44,LondonBubble,Food,Food,Mumbai,Maharashtra,Middle,2,Two founders,75.0,5.0,1500.0,Low valuation ask,High equity offered,True,True,75.0,15.0,,500.0,1.0,1.0,-0.6666666666666666
+2,Season 2,44,WaggyZone,Animal/Pets,Other (small n),Mumbai,Maharashtra,Middle,1,Solo founder,50.0,5.0,1000.0,Low valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,45,NutriCook,Food,Food,"Bangalore,Punganur","Karnataka,Andhra Pradesh",Middle,2,Two founders,100.0,2.0,5000.0,High valuation ask,Low equity offered,True,True,50.0,10.0,50.0,500.0,1.0,0.5,-0.9
+2,Season 2,45,Subhag,Medical/Health,Medical/Health,"Jhumri Telaiya,Raipur","Jharkhand,Chhattisgarh",Middle,3,3+ founders,50.0,1.0,5000.0,High valuation ask,Low equity offered,True,True,20.0,1.0,30.0,2000.0,1.0,0.4,-0.6
+2,Season 2,45,SinghStyled,Beauty/Fashion,Beauty/Fashion,Mumbai,Maharashtra,Middle,2,Two founders,50.0,5.0,1000.0,Low valuation ask,High equity offered,True,True,50.0,10.0,,500.0,1.0,1.0,-0.5
+2,Season 2,46,ZSportsTech,Sports,Other (small n),Mumbai,Maharashtra,Middle,2,Two founders,60.0,2.0,3000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,46,ThePlatedProject,Services,Services,Mumbai,Maharashtra,Middle,1,Solo founder,75.0,2.0,3750.0,High valuation ask,Low equity offered,True,True,75.0,3.75,,2000.0,3.0,1.0,-0.4666666666666667
+2,Season 2,46,VsnapU,Services,Services,Goa,Goa,Middle,4,3+ founders,50.0,1.5,3333.333333,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,46,TheHealthyFactory,Food,Food,Mumbai,Maharashtra,Young,2,Two founders,75.0,2.1,3571.428571,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,47,Brevistay,Services,Services,"Dehradun,Nainital,Lucknow","Uttarakhand,Uttar Pradesh",Young,5,3+ founders,100.0,1.66,6024.096386,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,47,SoulUp,Services,Services,Bangalore,Karnataka,Middle,2,Two founders,50.0,3.0,1666.666667,Low valuation ask,High equity offered,True,True,50.0,5.0,,1000.0,1.0,1.0,-0.40000000012
+2,Season 2,47,TheBigBookBox ChapterOneBooks,Furnishing/Household,Furnishing/Household,Gopalganj,Bihar,Middle,2,Two founders,50.0,8.0,625.0,Low valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,48,Rubans,Beauty/Fashion,Beauty/Fashion,Bangalore,Karnataka,Middle,2,Two founders,150.0,0.5,30000.0,High valuation ask,Low equity offered,True,True,100.0,1.0,50.0,10000.0,3.0,0.6666666666666666,-0.6666666666666666
+2,Season 2,48,SameNotification,Technology/Software,Technology/Software,"Ahmedabad,Mirzapur","Gujarat,Uttar Pradesh",Middle,1,Solo founder,25.0,15.0,166.6666667,Low valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,48,BottomLineSprays,Furnishing/Household,Furnishing/Household,Ahmedabad,Gujarat,Middle,2,Two founders,35.0,5.0,700.0,Low valuation ask,High equity offered,False,False,,,,,,,
+2,Season 2,48,LilGoodness,Food,Food,Bangalore,Karnataka,Middle,2,Two founders,100.0,1.0,10000.0,High valuation ask,Low equity offered,True,True,50.0,1.0,50.0,5000.0,1.0,0.5,-0.5
+2,Season 2,49,ForeverModest,Beauty/Fashion,Beauty/Fashion,Aurangabad,Maharashtra,Young,1,Solo founder,20.0,10.0,200.0,Low valuation ask,High equity offered,True,True,20.0,20.0,,100.0,4.0,1.0,-0.5
+2,Season 2,49,Sahayatha,Medical/Health,Medical/Health,Coimbatore,Tamil Nadu,Young,1,Solo founder,100.0,10.0,1000.0,Low valuation ask,High equity offered,True,True,100.0,10.0,,1000.0,5.0,1.0,0.0
+2,Season 2,49,WickedGud,Food,Food,Mumbai,Maharashtra,Middle,3,3+ founders,50.0,1.0,5000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,49,maisha,Beauty/Fashion,Beauty/Fashion,Ahmedabad,Gujarat,Middle,3,3+ founders,75.0,3.0,2500.0,High valuation ask,High equity offered,True,True,10.0,1.0,65.0,1000.0,1.0,0.13333333333333333,-0.6
+2,Season 2,50,NishHair,Beauty/Fashion,Beauty/Fashion,Mumbai,Maharashtra,Middle,1,Solo founder,100.0,2.0,5000.0,High valuation ask,Low equity offered,True,True,100.0,2.0,,5000.0,1.0,1.0,0.0
+2,Season 2,50,MYBYK,Vehicles/Electrical Vehicles,Vehicles/Electrical Vehicles,Ahmedabad,Gujarat,Middle,1,Solo founder,200.0,1.0,20000.0,High valuation ask,Low equity offered,False,False,,,,,,,
+2,Season 2,51,GODESi,Food,Food,Bangalore,Karnataka,Middle,2,Two founders,90.0,0.5,18000.0,High valuation ask,Low equity offered,True,False,,,,,,,
+2,Season 2,51,TAC,Beauty/Fashion,Beauty/Fashion,Mumbai,Maharashtra,Middle,2,Two founders,150.0,0.5,30000.0,High valuation ask,Low equity offered,True,True,81.0,1.0,69.0,8100.0,2.0,0.54,-0.73
+2,Season 2,51,Naara-Aaba,Liquor/Beverages,Other (small n),Ziro,Arunachal Pradesh,Middle,2,Two founders,75.0,2.5,3000.0,High valuation ask,Low equity offered,True,True,50.0,5.0,25.0,1000.0,2.0,0.6666666666666666,-0.6666666666666666
+2,Season 2,51,StyloBug,Beauty/Fashion,Beauty/Fashion,Delhi,Delhi,Middle,2,Two founders,80.0,2.0,4000.0,High valuation ask,Low equity offered,True,True,80.0,10.0,,800.0,1.0,1.0,-0.8
+2,Season 2,0,ZenOnco,Medical/Health,Medical/Health,Jodhpur,Rajasthan,Middle,2,Two founders,100.0,1.0,10000.0,High valuation ask,Low equity offered,True,False,,,,,,,
