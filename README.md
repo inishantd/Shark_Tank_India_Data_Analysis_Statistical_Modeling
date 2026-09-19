@@ -46,20 +46,20 @@ Amit). Sourced from a public GitHub mirror of the show's episode data
 
 ## Headline findings
 
-- **321 pitches, 176 deals — 54.8% conversion rate.**
+- **321 pitches, 176 deals, 54.8% conversion rate.**
 - Deal size is right-skewed (median ₹50 lakh vs. mean ₹63 lakh); one
   extreme outlier ask (₹300 crore) was kept and flagged rather than dropped.
 - **Ask amount is the strongest driver of deal amount** (Spearman ρ = 0.66,
   p < 0.001; log-linear regression R² = 0.61).
 - **Season 2 converted significantly better than Season 1** (62.7% vs.
-  46.1%, p = 0.007 after correction) — the one factor that held up as a
+  46.1%, p = 0.007 after correction)  the one factor that held up as a
   significant predictor of deal odds in the logistic regression.
 - Industry, which shark, valuation-ask level, and equity offered did
   **not** show a statistically significant effect on deal success once
   corrected for multiple testing, despite visible gaps in the raw charts.
 - The logistic regression's weak discriminative power (test AUC ≈ 0.54)
   says the same thing from a different angle: pitch paperwork alone
-  explains little of who gets a deal — most of the signal likely lives in
+  explains little of who gets a deal  most of the signal likely lives in
   the in-studio pitch itself, which this dataset doesn't capture.
 
 Full statistical detail (test statistics, p-values, effect sizes,
@@ -76,10 +76,10 @@ Section 10 of the notebook.
 
 ## Limitations
 
-- Only 2 seasons / 321 pitches — several subgroup tests have small sample
+- Only 2 seasons / 321 pitches, several subgroup tests have small sample
   sizes once split.
 - Financial fields (revenue, margins) are missing for most pitches.
-- This is edited television, not a controlled data-collection process —
+- This is edited television, not a controlled data-collection process,
   correlations here should not be read as causal.
 
 ## Tech stack
